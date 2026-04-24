@@ -1,11 +1,11 @@
 name = "reverse-fate-console"
-compatibility_date = "2026-04-25"
+compatibility_date = "2026-04-24"
 pages_build_output_dir = "dist"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "reverse-fate-console-db"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "654b4d59-2a11-4165-884a-52759a6faa11"
 
 [vars]
 OPENAI_MODEL = "gpt-4o-mini"
